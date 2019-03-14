@@ -10,7 +10,7 @@ Chrome浏览器
 
 Chrome driver,附带文件中有，将整个文件夹拷贝到c盘根目录，路径如下图所示
 
-![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![img](https://github.com/RachelZhuang/IEEESpider/blob/master/1.png)
 
  
 
@@ -20,4 +20,4 @@ Chrome driver,附带文件中有，将整个文件夹拷贝到c盘根目录，�
 
 *修改输入所述的四个参数即可*
 
-![img](file:///C:/Users/ADMINI~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![img](https://github.com/RachelZhuang/IEEESpider/blob/master/2.png)
